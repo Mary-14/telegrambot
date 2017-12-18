@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telegramBot.iml" filepath="$PROJECT_DIR$/.idea/modules/telegramBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telegramBot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/telegramBot_main.iml" group="telegramBot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telegramBot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/telegramBot_test.iml" group="telegramBot" />
+    </modules>
+  </component>
+</project>
